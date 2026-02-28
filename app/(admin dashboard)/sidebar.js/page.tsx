@@ -2,11 +2,9 @@
 import Link from 'next/link';
 import { usePathname } from 'next/navigation';
 import { 
-  LayoutDashboard, 
-  UserRound, 
+  LayoutDashboard,  
   Stethoscope, 
-  ClipboardList, 
-  Settings, 
+  ClipboardList,  
   LogOut, 
   ChevronRight,
   ShieldCheck,
